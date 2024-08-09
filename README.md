@@ -8,6 +8,7 @@
 - Transactional Management: The application uses Spring's transactional management to ensure data consistency and integrity during complex operations.
 - **AOP (Aspect-Oriented Programming**): Aspect-Oriented Programming is employed to modularize cross-cutting concerns such as logging and error handling.
 - **Error Handling**: Centralized error handling and logging mechanisms are in place to capture and manage application errors effectively.
+- **Unit Testing**: Unit tests for this project have been implemented using JUnit and Mockito within the Spring Test framework. These tools have been utilized to ensure that the application components are tested thoroughly, providing a reliable and robust codebase.
 
 ## How to Run the Application
 #### To get the Library Management System up and running on your local machine, follow these steps:
